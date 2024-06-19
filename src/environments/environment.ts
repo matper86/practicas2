@@ -1,10 +1,4 @@
 export const environment = {
-  production:true,
-  apiUrl:'http://fakestoreapi.com/'
+  production: true,
+  apiUrl:'https://fakestoreapi.com'
 };
-
-// export const environment = {
-//     production: true,
-//     apiUrl: 'http://fakestoreapi.com/',
-//     featureFlag: false,
-//   };
